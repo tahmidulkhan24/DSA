@@ -1,0 +1,1 @@
+{"name":"Local: delete","url":"c:\\Users\\tahmidul_khan\\Desktop\\DSA-Uni\\Linked list code\\delete.cpp","tests":[{"id":1737221619657,"input":"10 20 20 20 30 40 -1\n20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tahmidul_khan\\Desktop\\DSA-Uni\\Linked list code\\delete.cpp","group":"local","local":true}
